@@ -1,1 +1,0 @@
-import{j as c}from"./index-D1vWP5sv.js";const r=s=>c.jsxs("div",{className:`project__column project__w${s.w}`,children:[c.jsx("div",{className:"project__img",children:c.jsx("img",{src:s.src,alt:s.project})}),c.jsx("div",{className:"project__sub",children:s.sub})]});export{r as P};
