@@ -1,0 +1,1 @@
+import{j as e}from"./index-C5ztH4Zp.js";import{I as c}from"./ImageSuspense--XQFEEEH.js";const a=s=>e.jsxs("div",{className:`project__column project__w${s.w}`,children:[e.jsx("div",{className:"project__img",children:e.jsx(c,{src:s.src,alt:s.project})}),e.jsx("div",{className:"project__sub",children:s.sub})]});export{a as P};
